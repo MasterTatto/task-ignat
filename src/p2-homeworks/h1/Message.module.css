@@ -16,7 +16,7 @@
 .imgBox {
 	border-radius: 200px;
 	max-height: 70px;
-	box-shadow: 3px 4px 5px;
+	box-shadow: 2px 2px 20px #fff;
 	margin-top: 25px;
 }
 

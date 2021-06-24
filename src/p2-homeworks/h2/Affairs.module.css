@@ -1,3 +1,35 @@
 .someClass {
-
+}
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+.remove {
+	padding: 5px;
+	outline: none;
+	cursor: pointer;
+}
+.btn {
+	background-color: aqua;
+	outline: none;
+}
+.h {
+	color: red;
+}
+.l {
+	color: green;
+}
+.m {
+	color: rgb(233, 210, 0);
+}
+.box {
+	
+	max-width: 110px;
+	display: flex;
+	justify-content: space-between;
+	margin-top: 10px;
+}
+.owner {
+	margin-left: 30px;
 }
