@@ -1,7 +1,9 @@
 .someClass {
-
 }
-
+.counter {
+	color: #fff;
+}
 .error {
-    border: 1px solid red;
+	border: 1px solid red;
+	outline: none;
 }

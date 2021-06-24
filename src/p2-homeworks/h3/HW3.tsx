@@ -26,7 +26,7 @@ function HW3() {
             <hr/>
             {/*для личного творчества, могу проверить*/}
             {/*<AlternativeGreeting/>*/}
-            <hr/>
+           
         </div>
     )
 }
